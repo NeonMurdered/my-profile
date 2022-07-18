@@ -478,6 +478,15 @@ h3 {
     display: block;
   }
 
+  .about .container .content__info .info__achiv .achiv__inner {
+    display: block;
+  }
+
+  .about .container .content__info .info__achiv .achiv__inner .achiv__item {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+
   .skills .container {
     width: 90%;
   }
